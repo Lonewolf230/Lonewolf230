@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on an AI based Finance Manager App
+- 🔭 I’m currently working on an AI based Fitness App for mobile
 - 🌱 I’m currently learning Machine Learning and LLMs
 - 👯 I’m looking to collaborate on pretty much anything
 - 😄 Pronouns: He/Him
