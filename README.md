@@ -17,7 +17,7 @@
 
 
 ## 🚀 Tools at make up my tech stack
-[![](https://skillicons.dev/icons?i=js,java,ts,py,flutter,firebase,aws,supabase,react,nodejs,express,mongodb,mysql,redis,selenium,postman,docker,github,githubactions,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,java,ts,py,flutter,firebase,aws,supabase,react,nodejs,express,mongodb,mysql,redis,jest,selenium,postman,docker,github,githubactions,html,css)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lonewolf230&show_icons=true&theme=radical)
