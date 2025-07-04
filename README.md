@@ -16,7 +16,7 @@
 - [🌐 My Portfolio Website](https://manishdev23.netlify.app/)
 
 
-## 🚀 Tools at make up my tech stack
+## 🚀 Tools that make up my tech stack
 [![](https://skillicons.dev/icons?i=js,java,ts,py,flutter,firebase,aws,supabase,react,nodejs,express,mongodb,mysql,redis,jest,selenium,postman,docker,github,githubactions,html,css)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
