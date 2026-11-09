@@ -20,19 +20,13 @@
 
 <img src="assets/stack.svg" alt="Tech stack as a five-stage pipeline. Ingest: Airflow, REST APIs, AWS S3, AWS SQS. Transform: SQL, Python, LLM pipelines, FAISS, FFmpeg. Store: PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase. Serve: FastAPI, Express, Node.js, React, TypeScript, Flutter. Ship: Docker, AWS, GitHub Actions, Jest, Playwright, Postman." width="100%">
 
-## `~/activity`
+## `~/contact`
+
+<img src="assets/contact.svg" alt="Status: open to work. Roles: junior Data Engineering and Backend / SWE. Contact: manish2306j@gmail.com, linkedin.com/in/manish-ramdoss-2934132b8, manishdev23.netlify.app" width="100%">
+
 
 <div align="center">
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lonewolf230/Lonewolf230/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lonewolf230/Lonewolf230/output/github-snake.svg">
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Lonewolf230/Lonewolf230/output/github-snake-dark.svg" width="100%">
-</picture> -->
 
-<br><br>
-<!-- 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Lonewolf230&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub stats"> -->
-<img src="assets/stats.svg" alt="GitHub stats: commits, pull requests, repos, streaks and top languages" width="100%">
+<kbd>[ ✉ Email ](mailto:manish2306j@gmail.com)</kbd>  <kbd>[ LinkedIn ↗ ](https://www.linkedin.com/in/manish-ramdoss-2934132b8)</kbd>  <kbd>[ Portfolio ↗ ](https://manishdev23.netlify.app/)</kbd>
 
 </div>
